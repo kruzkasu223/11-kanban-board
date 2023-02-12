@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from "react"
+import { useCallback, useState } from "react"
 import { BOARD_DATA, PROGRESS } from "./data"
 import type {
   handleDragEnterType,
